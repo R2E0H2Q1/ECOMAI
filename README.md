@@ -1,0 +1,2 @@
+# ECOMAI
+AI COURSE
