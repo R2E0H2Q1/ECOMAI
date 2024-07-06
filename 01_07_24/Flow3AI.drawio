@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net" modified="2024-07-01T15:49:19.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="i_TxaiSW3YN5HKNSoUQD" version="24.6.4" type="device">
+  <diagram name="Page-1" id="EyRaCs4OcXULUhkM_m1A">
+    <mxGraphModel dx="392" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F06vBNZGuLJ-f1geTR84-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F06vBNZGuLJ-f1geTR84-2" value="3.input your name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="122" y="21" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F06vBNZGuLJ-f1geTR84-3" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="319" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F06vBNZGuLJ-f1geTR84-4" value="&quot;what is your name?&quot;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="200" width="205" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="F06vBNZGuLJ-f1geTR84-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F06vBNZGuLJ-f1geTR84-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F06vBNZGuLJ-f1geTR84-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189.5" y="240" as="sourcePoint" />
+            <mxPoint x="189.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
