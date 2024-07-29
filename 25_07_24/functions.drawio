@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" modified="2024-07-25T17:17:06.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="o-uyj2SoinQzHPjMvGq4" version="24.6.5" type="device">
+  <diagram name="Page-1" id="zCJOOwEvWnlqeo-MKQPp">
+    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="24lvV09j2VHUAjs1KWGv-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24lvV09j2VHUAjs1KWGv-2" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="41.25" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24lvV09j2VHUAjs1KWGv-7" value="sum all the digits of a number" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="30" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2i2Ug3EKJSbQpZiKw1Ly-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="24lvV09j2VHUAjs1KWGv-1" target="24lvV09j2VHUAjs1KWGv-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="150" as="sourcePoint" />
+            <mxPoint x="100" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24lvV09j2VHUAjs1KWGv-24" value="num = input" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="51.25" y="180" width="97.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dJ0o7yA8VT7SD2CRMR3X-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="758" y="677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJ0o7yA8VT7SD2CRMR3X-1" target="dJ0o7yA8VT7SD2CRMR3X-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-1" value="num &amp;gt; 0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-2" value="sum = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.75" y="410" width="81" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-3" value="rightd = sum % 10&lt;div&gt;num = num // 10&amp;nbsp;&lt;/div&gt;&lt;div&gt;sum += rightd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495.25" y="610" width="121.12" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-9" value="sum" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-11" value="function calc_sum_of_digits ( )" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-12" value="calc_sum_of_digits ( )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="280" width="138.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-13" value="calc_sum_of_digits ( )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41.25" y="390" width="138.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="310" as="sourcePoint" />
+            <mxPoint x="330" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJ0o7yA8VT7SD2CRMR3X-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="424.5" as="sourcePoint" />
+            <mxPoint x="330" y="424.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
